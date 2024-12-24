@@ -1,4 +1,4 @@
-# User Behavior and Order Trends Analysis
+# User Behavior and Order Trends Analysis upliance.ai
 
 ## Overview
 This project involves analyzing datasets related to user behavior, cooking preferences, and order trends. The objective is to extract meaningful insights, create visualizations, and provide business recommendations to enhance user engagement and optimize sales.
